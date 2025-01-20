@@ -5,7 +5,7 @@
 <a href="https://www.behance.net/dhirukumar" target="_blank">Behance Profile </a>
 
 
-# GlowScroll: Illuminated Scrolling with Pure CSS
+# Overview
 
 Welcome to **GlowScroll**! This project demonstrates how to create an eye-catching illuminated scrolling effect using **pure CSS**. No JavaScript is needed—just the power of CSS animations to create a glowing, interactive scrolling experience for your web pages.
 
@@ -19,19 +19,19 @@ Welcome to **GlowScroll**! This project demonstrates how to create an eye-catchi
 # Preview
 <span>GlowScroll: Illuminated Scrolling with Pure CSS</span>
 <br />
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/217314231/Glow-Scroll-CSS" target="_blank">
 <img style="width:350px;" src="./scrollingLanding.gif" alt="" /></a>
 <br/>
 <span>GlowScroll: Illuminated Scrolling with Pure CSS </span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/217314231/Glow-Scroll-CSS" target="_blank">
 <img style="width:350px;" src="./AS.png" alt="" />
 <img style="width:350px;" src="./AE.png" alt="" />
 </a>
 <br/>
 <span>Cover</span>
 <br/>
-<a href="#" target="_blank">
+<a href="https://www.behance.net/gallery/217314231/Glow-Scroll-CSS" target="_blank">
 <img style="width:350px;" src="./cover.png" alt="" />
 </a>
 <br />
