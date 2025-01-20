@@ -20,16 +20,20 @@ Welcome to **GlowScroll**! This project demonstrates how to create an eye-catchi
 <span>GlowScroll: Illuminated Scrolling with Pure CSS</span>
 <br />
 <a href="#" target="_blank">
-<img style="width:350px;" src="." alt="" /></a>
-<br />
+<img style="width:350px;" src="./scrollingLanding.gif" alt="" /></a>
 <br/>
 <span>GlowScroll: Illuminated Scrolling with Pure CSS </span>
 <br/>
 <a href="#" target="_blank">
-<img style="width:350px;" src="." alt="" />
-<img style="width:350px;" src="." alt="" />
+<img style="width:350px;" src="./AS.png" alt="" />
+<img style="width:350px;" src="./AE.png" alt="" />
 </a>
-
+<br/>
+<span>Cover</span>
+<br/>
+<a href="#" target="_blank">
+<img style="width:350px;" src="./cover.png" alt="" />
+</a>
 <br />
 ###### Technologies Used
 
